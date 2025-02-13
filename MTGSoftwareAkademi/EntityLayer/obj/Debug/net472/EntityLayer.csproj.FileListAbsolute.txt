@@ -1,0 +1,36 @@
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\bin\Debug\net472\EntityLayer.dll
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\bin\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.AssemblyInfo.cs
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.dll
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\bin\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\bin\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.AssemblyInfo.cs
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\Kurslar\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\Yazokulu\EntityLayer\bin\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\Yazokulu\EntityLayer\bin\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Documents\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Documents\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Documents\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.AssemblyInfo.cs
+C:\Users\musta\Documents\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\Yazokulu\EntityLayer\obj\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\bin\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\bin\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\obj\Debug\net472\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\obj\Debug\net472\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\obj\Debug\net472\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\obj\Debug\net472\EntityLayer.AssemblyInfo.cs
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\obj\Debug\net472\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\obj\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\EntityLayer\obj\Debug\net472\EntityLayer.pdb

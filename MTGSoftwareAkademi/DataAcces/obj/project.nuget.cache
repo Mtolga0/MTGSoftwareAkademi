@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2ucwXMC/BI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musta\\Documents\\3.Dönem\\Web Programlama Ders\\MTGSoftwareAkademi\\MTGSoftwareAkademi\\DataAcces\\DataAccesLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}

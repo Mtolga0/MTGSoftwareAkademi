@@ -1,0 +1,52 @@
+C:\Users\musta\Desktop\Yazokulu\DataAcces\bin\Debug\net472\DataAccesLayer.dll
+C:\Users\musta\Desktop\Yazokulu\DataAcces\bin\Debug\net472\DataAccesLayer.pdb
+C:\Users\musta\Desktop\Yazokulu\DataAcces\bin\Debug\net472\System.Data.SqlClient.dll
+C:\Users\musta\Desktop\Yazokulu\DataAcces\bin\Debug\net472\EntityLayer.dll
+C:\Users\musta\Desktop\Yazokulu\DataAcces\bin\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Desktop\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Desktop\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.AssemblyInfo.cs
+C:\Users\musta\Desktop\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\Yazokulu\DataAcces\obj\Debug\net472\DataAcce.AB8F2C65.Up2Date
+C:\Users\musta\Desktop\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.dll
+C:\Users\musta\Desktop\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.pdb
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\bin\Debug\net472\DataAccesLayer.dll
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\bin\Debug\net472\DataAccesLayer.pdb
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\bin\Debug\net472\System.Data.SqlClient.dll
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\bin\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\bin\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.AssemblyInfo.cs
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\obj\Debug\net472\DataAcce.AB8F2C65.Up2Date
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.dll
+C:\Users\musta\Documents\Kurslar\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.pdb
+C:\Users\musta\Documents\Yazokulu\DataAcces\bin\Debug\net472\DataAccesLayer.dll
+C:\Users\musta\Documents\Yazokulu\DataAcces\bin\Debug\net472\DataAccesLayer.pdb
+C:\Users\musta\Documents\Yazokulu\DataAcces\bin\Debug\net472\System.Data.SqlClient.dll
+C:\Users\musta\Documents\Yazokulu\DataAcces\bin\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\Yazokulu\DataAcces\bin\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Documents\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Documents\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Documents\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.AssemblyInfo.cs
+C:\Users\musta\Documents\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Yazokulu\DataAcces\obj\Debug\net472\DataAcce.AB8F2C65.Up2Date
+C:\Users\musta\Documents\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.dll
+C:\Users\musta\Documents\Yazokulu\DataAcces\obj\Debug\net472\DataAccesLayer.pdb
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\bin\Debug\net472\DataAccesLayer.dll
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\bin\Debug\net472\DataAccesLayer.pdb
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\bin\Debug\net472\System.Data.SqlClient.dll
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\bin\Debug\net472\EntityLayer.dll
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\bin\Debug\net472\EntityLayer.pdb
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\obj\Debug\net472\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\obj\Debug\net472\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\obj\Debug\net472\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\obj\Debug\net472\DataAccesLayer.AssemblyInfo.cs
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\obj\Debug\net472\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\obj\Debug\net472\DataAcce.AB8F2C65.Up2Date
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\obj\Debug\net472\DataAccesLayer.dll
+C:\Users\musta\Documents\3.Dönem\Web Programlama Ders\MTGSoftwareAkademi\MTGSoftwareAkademi\DataAcces\obj\Debug\net472\DataAccesLayer.pdb

@@ -1,0 +1,9 @@
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net48\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net48\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net48\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net48\EntityLayer.AssemblyInfo.cs
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net48\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\bin\Debug\net48\EntityLayer.dll
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\bin\Debug\net48\EntityLayer.pdb
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net48\EntityLayer.dll
+C:\Users\musta\Desktop\Yazokulu\EntityLayer\obj\Debug\net48\EntityLayer.pdb
